@@ -16,13 +16,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[your current learning focus, e.g., React, Node.js, Python, etc.]**
-- 💼 I’m working on **[your current project or job role]**
-- 👯 I’m looking to collaborate on **[project type or technology]**
-- 🤔 I’m looking for help with **[specific challenge or area you need assistance with]**
-- 💬 Ask me about **[expertise or areas you can help others with]**
-- 📫 How to reach me: **[your email or social media links]**
-- ⚡ Fun fact: **[a fun fact about you]**
+- 🌱 I’m currently learning **I current learning focus, e.g., React, Node.js, Python, machine learning etc.**
+- 💼 I’m working on **My current project Gym management**
+- 👯 I’m looking to collaborate on **Bus tickets management project**
+- 🤔 I’m looking for help with **Machine learning and data science**
+- 💬 Ask me about **React, js, mongodb, node**
+- 📫 How to reach me: **Linkedin: https://www.linkedin.com/in/mostak-shahariyar/**
+- ⚡ Fun fact: **I’ve built websites for gyms, schools, and even e-commerce platforms, and I’m always brainstorming my next big project.**
 
 ## 🛠️ Technologies & Tools
 
@@ -48,9 +48,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/shahariyar23/project1) - Brief description of project 1.
-- [Project 2](https://github.com/shahariyar23/project2) - Brief description of project 2.
-- [Project 3](https://github.com/shahariyar23/project3) - Brief description of project 3.
+- [gym_management](https://github.com/shahariyar23/gym_management) - Brief description: Goto the readme file.
+- [tickets_system_java](https://github.com/shahariyar23/tickets_system_java) - Brief description: Goto the readme file.
+- [SmartCampusManagementSystem](https://github.com/shahariyar23/SmartCampusManagementSystem) - Brief description: Goto the readme file.
 
 ## 📝 Latest Blog Posts
 

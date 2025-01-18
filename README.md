@@ -10,39 +10,53 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e47u1f5kigu5q2y9jxlmrzi4v8555hvek0lr9avx8b4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+# Hi there, I'm Shahariyar! 👋
 
-###
+Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in web development, open-source contributions, and learning new technologies.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
+## 🚀 About Me
 
-###
+- 🌱 I’m currently learning **[your current learning focus, e.g., React, Node.js, Python, etc.]**
+- 💼 I’m working on **[your current project or job role]**
+- 👯 I’m looking to collaborate on **[project type or technology]**
+- 🤔 I’m looking for help with **[specific challenge or area you need assistance with]**
+- 💬 Ask me about **[expertise or areas you can help others with]**
+- 📫 How to reach me: **[your email or social media links]**
+- ⚡ Fun fact: **[a fun fact about you]**
 
-<div align="left">
-  <a href="https://www.instagram.com/mostakshahariyar23/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mostak-shahariyar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 🛠️ Technologies & Tools
 
-###
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+## 📈 GitHub Stats
+
+![Shahariyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahariyar23&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/shahariyar23)
+- [Twitter](https://twitter.com/shahariyar23)
+- [Personal Website/Blog](https://shahariyar23.com)
+
+## 📂 Projects
+
+Here are some of my notable projects:
+
+- [Project 1](https://github.com/shahariyar23/project1) - Brief description of project 1.
+- [Project 2](https://github.com/shahariyar23/project2) - Brief description of project 2.
+- [Project 3](https://github.com/shahariyar23/project3) - Brief description of project 3.
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects or just have a chat about technology!

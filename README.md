@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **I current learning focus, e.g., React, Node.js, Python, machine learning etc.**
-- 💼 I’m working on **My current project Gym management**
+- 💼 I’m working on **My current project Blood management**
 - 👯 I’m looking to collaborate on **Bus tickets management project**
 - 🤔 I’m looking for help with **Machine learning and data science**
 - 💬 Ask me about **React, js, mongodb, node**
